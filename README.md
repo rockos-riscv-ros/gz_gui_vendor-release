@@ -1,3 +1,26 @@
+## gz_gui_vendor (jazzy) - 0.0.5-2
+
+The packages in the `gz_gui_vendor` repository were released into the `jazzy` distro by running `/home/z572/gits/rockos-ros/venv/bin/bloom-release -r jazzy gz_gui_vendor --override-release-repository-push-url git@github.com:rockos-riscv-ros/gz_gui_vendor-release` on `Thu, 27 Mar 2025 08:33:05 -0000`
+
+The `gz_gui_vendor` package was released.
+
+Version of package(s) in repository `gz_gui_vendor`:
+
+- upstream repository: https://github.com/gazebo-release/gz_gui_vendor.git
+- release repository: https://github.com/rockos-riscv-ros/gz_gui_vendor-release.git
+- rosdistro version: `0.0.5-1`
+- old version: `0.0.5-1`
+- new version: `0.0.5-2`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## gz_gui_vendor (rolling) - 0.2.1-1
 
 The packages in the `gz_gui_vendor` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --rosdistro rolling gz_gui_vendor` on `Wed, 19 Feb 2025 23:07:54 -0000`
