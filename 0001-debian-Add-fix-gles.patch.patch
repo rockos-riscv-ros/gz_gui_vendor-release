@@ -1,4 +1,4 @@
-From 59ddc6e0aaf8efeb9212e6e80ad0aa14b2b42edc Mon Sep 17 00:00:00 2001
+From 0a3e3aa20e62fe2efd03ec64046b99f7c011bbfc Mon Sep 17 00:00:00 2001
 From: Zheng Junjie <z572@z572.online>
 Date: Mon, 14 Apr 2025 19:38:23 +0800
 Subject: [PATCH] debian: Add fix-gles.patch.
